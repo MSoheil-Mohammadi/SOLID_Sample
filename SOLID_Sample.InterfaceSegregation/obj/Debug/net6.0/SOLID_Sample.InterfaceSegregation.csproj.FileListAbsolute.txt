@@ -1,0 +1,5 @@
+D:\CSharp\SOLID_Sample\SOLID_Sample.InterfaceSegregation\obj\Debug\net6.0\SOLID_Sample.InterfaceSegregation.csproj.AssemblyReference.cache
+D:\CSharp\SOLID_Sample\SOLID_Sample.InterfaceSegregation\obj\Debug\net6.0\SOLID_Sample.InterfaceSegregation.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\SOLID_Sample\SOLID_Sample.InterfaceSegregation\obj\Debug\net6.0\SOLID_Sample.InterfaceSegregation.AssemblyInfoInputs.cache
+D:\CSharp\SOLID_Sample\SOLID_Sample.InterfaceSegregation\obj\Debug\net6.0\SOLID_Sample.InterfaceSegregation.AssemblyInfo.cs
+D:\CSharp\SOLID_Sample\SOLID_Sample.InterfaceSegregation\obj\Debug\net6.0\SOLID_Sample.InterfaceSegregation.csproj.CoreCompileInputs.cache

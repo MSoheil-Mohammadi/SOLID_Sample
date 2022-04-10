@@ -1,0 +1,5 @@
+D:\CSharp\SOLID_Sample\SOLID_Sample.OpenClose\obj\Debug\net6.0\SOLID_Sample.OpenClosed.csproj.AssemblyReference.cache
+D:\CSharp\SOLID_Sample\SOLID_Sample.OpenClose\obj\Debug\net6.0\SOLID_Sample.OpenClosed.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\SOLID_Sample\SOLID_Sample.OpenClose\obj\Debug\net6.0\SOLID_Sample.OpenClosed.AssemblyInfoInputs.cache
+D:\CSharp\SOLID_Sample\SOLID_Sample.OpenClose\obj\Debug\net6.0\SOLID_Sample.OpenClosed.AssemblyInfo.cs
+D:\CSharp\SOLID_Sample\SOLID_Sample.OpenClose\obj\Debug\net6.0\SOLID_Sample.OpenClosed.csproj.CoreCompileInputs.cache

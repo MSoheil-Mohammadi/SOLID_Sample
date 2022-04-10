@@ -1,0 +1,15 @@
+D:\CSharp\SOLID_Sample\SOLID_Sample.SingleResponsibility\bin\Debug\net6.0\SOLID_Sample.SingleResponsibility.exe
+D:\CSharp\SOLID_Sample\SOLID_Sample.SingleResponsibility\bin\Debug\net6.0\SOLID_Sample.SingleResponsibility.deps.json
+D:\CSharp\SOLID_Sample\SOLID_Sample.SingleResponsibility\bin\Debug\net6.0\SOLID_Sample.SingleResponsibility.runtimeconfig.json
+D:\CSharp\SOLID_Sample\SOLID_Sample.SingleResponsibility\bin\Debug\net6.0\SOLID_Sample.SingleResponsibility.dll
+D:\CSharp\SOLID_Sample\SOLID_Sample.SingleResponsibility\bin\Debug\net6.0\ref\SOLID_Sample.SingleResponsibility.dll
+D:\CSharp\SOLID_Sample\SOLID_Sample.SingleResponsibility\bin\Debug\net6.0\SOLID_Sample.SingleResponsibility.pdb
+D:\CSharp\SOLID_Sample\SOLID_Sample.SingleResponsibility\obj\Debug\net6.0\SOLID_Sample.SingleResponsibility.csproj.AssemblyReference.cache
+D:\CSharp\SOLID_Sample\SOLID_Sample.SingleResponsibility\obj\Debug\net6.0\SOLID_Sample.SingleResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\SOLID_Sample\SOLID_Sample.SingleResponsibility\obj\Debug\net6.0\SOLID_Sample.SingleResponsibility.AssemblyInfoInputs.cache
+D:\CSharp\SOLID_Sample\SOLID_Sample.SingleResponsibility\obj\Debug\net6.0\SOLID_Sample.SingleResponsibility.AssemblyInfo.cs
+D:\CSharp\SOLID_Sample\SOLID_Sample.SingleResponsibility\obj\Debug\net6.0\SOLID_Sample.SingleResponsibility.csproj.CoreCompileInputs.cache
+D:\CSharp\SOLID_Sample\SOLID_Sample.SingleResponsibility\obj\Debug\net6.0\SOLID_Sample.SingleResponsibility.dll
+D:\CSharp\SOLID_Sample\SOLID_Sample.SingleResponsibility\obj\Debug\net6.0\ref\SOLID_Sample.SingleResponsibility.dll
+D:\CSharp\SOLID_Sample\SOLID_Sample.SingleResponsibility\obj\Debug\net6.0\SOLID_Sample.SingleResponsibility.pdb
+D:\CSharp\SOLID_Sample\SOLID_Sample.SingleResponsibility\obj\Debug\net6.0\SOLID_Sample.SingleResponsibility.genruntimeconfig.cache

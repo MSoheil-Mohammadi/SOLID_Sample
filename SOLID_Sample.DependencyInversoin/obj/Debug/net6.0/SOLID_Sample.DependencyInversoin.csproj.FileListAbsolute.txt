@@ -1,0 +1,5 @@
+D:\CSharp\SOLID_Sample\SOLID_Sample.DependencyInversoin\obj\Debug\net6.0\SOLID_Sample.DependencyInversoin.csproj.AssemblyReference.cache
+D:\CSharp\SOLID_Sample\SOLID_Sample.DependencyInversoin\obj\Debug\net6.0\SOLID_Sample.DependencyInversoin.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\SOLID_Sample\SOLID_Sample.DependencyInversoin\obj\Debug\net6.0\SOLID_Sample.DependencyInversoin.AssemblyInfoInputs.cache
+D:\CSharp\SOLID_Sample\SOLID_Sample.DependencyInversoin\obj\Debug\net6.0\SOLID_Sample.DependencyInversoin.AssemblyInfo.cs
+D:\CSharp\SOLID_Sample\SOLID_Sample.DependencyInversoin\obj\Debug\net6.0\SOLID_Sample.DependencyInversoin.csproj.CoreCompileInputs.cache
